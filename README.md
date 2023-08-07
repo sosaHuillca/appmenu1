@@ -9,6 +9,7 @@
 
 
 ```
+npm create bot-whatsapp@latest
 npm install
 npm start
 ```
